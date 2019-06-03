@@ -1,0 +1,5 @@
+{
+    "mongoURI" : "mongodb+srv://praveen:praveenkumar_s@reactcluster-4q0xb.mongodb.net/cambium?retryWrites=true",
+    "jwtKey":"4G`?_]DDL_zH",
+    "expirationTime":7200
+}

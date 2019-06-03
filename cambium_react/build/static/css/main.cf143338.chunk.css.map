@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AACA,KACI,iBAAkB,CAClB,cACF","file":"main.cf143338.chunk.css","sourcesContent":["@import '~antd/dist/antd.css';\n.App {\n    text-align: center;\n    margin-top: 12%;\n  }"]}
